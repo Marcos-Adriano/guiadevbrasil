@@ -805,6 +805,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [PodTag](https://podtag.com.br/) - Desenvolvimento de software e tecnologia em geral <br>
 - [QuebraDev](https://quebradev.com.br/) - Quebrada + tecnologia <br>
 - [Fora da Norma](https://www.youtube.com/channel/UCPA5AzEp_MGEVTDSVCkgShg) - Podcast da 42SP sobre o universo Tech. <br>
+- [PrimoTech](https://www.youtube.com/channel/UCwUlxyV72TBJ38O2g4HGlkQ) - Podcast de tecnologia do Grupo Primo.  <br>
 
 ## 💼 Business
 
